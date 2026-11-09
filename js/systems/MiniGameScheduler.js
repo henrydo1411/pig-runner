@@ -2,7 +2,7 @@ export class MiniGameScheduler {
     constructor() {
         this.intervals = [10, 10, 15, 20];
         this.index = 0;
-        this.nextMiniGameScore = 1;
+        this.nextMiniGameScore = 5;
     }
 
     shouldStart(score) {
