@@ -80,8 +80,7 @@ body {
     height: 120px;
     box-sizing: border-box;
     pointer-events: none;
-    border: 2px solid red;
-    background-color: rgba(255, 0, 0, 0.15);
+    border: none;   
 }
 
 #ground {
